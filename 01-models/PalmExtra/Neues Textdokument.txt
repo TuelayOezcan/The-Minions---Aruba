@@ -1,5 +1,4 @@
-ng plant Designer
+ng plan Designer
 
-Mit dieser Software kann man bäume erstellen mit weniger Polygone
-Und es funktioniert sehr gut mit Blender
-Wenn man im OBJ DATEI exportiert oder dae datei
+Mit dieser Software kann man mit wenigen Polygonen Bäume erstellen. 
+Zudem funktuniert es sehr gut mit Blender, wenn man im OBJ Datei exportiert oder DAE Dateien.
